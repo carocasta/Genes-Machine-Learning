@@ -1,8 +1,6 @@
 # Machine Learning-Based Identification of Transcriptomic Biomarkers for PD-1/PD-L1 Immunotherapy Response
 
-This repository contains machine learning workflows developed to identify transcriptomic biomarkers associated with response to PD-1/PD-L1 immune checkpoint inhibitors using RNA sequencing (RNA-seq) gene expression data.
-
-The project focuses on feature selection, model development, and biological interpretation to predict immunotherapy response across multiple solid tumor types.
+This repository contains the source code used to develop interpretable machine learning models for predicting response to PD-1/PD-L1 immune checkpoint inhibitors from bulk RNA-seq data across multiple solid tumors.
 
 ## Project Overview
 

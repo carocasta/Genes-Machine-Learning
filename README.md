@@ -1,4 +1,4 @@
-# Genes and Machine Learning
+# Machine Learning-Based Identification of Transcriptomic Biomarkers for PD-1/PD-L1 Immunotherapy Response
 
 This repository contains machine learning workflows developed to identify transcriptomic biomarkers associated with response to PD-1/PD-L1 immune checkpoint inhibitors using RNA sequencing (RNA-seq) gene expression data.
 
